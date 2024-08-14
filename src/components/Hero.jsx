@@ -8,7 +8,7 @@ const Hero = () => (
      <button className="cta-button">Explore Dashboard</button>
    </div>
    <div className="hero-image">
-     <img src="src/assets/image1.png" alt="Market scene" />
+     <img src="../src/assets/image1.png" alt="Market scene" />
    </div>
  </section>
 );
