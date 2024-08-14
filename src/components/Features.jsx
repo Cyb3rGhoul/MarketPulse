@@ -17,19 +17,19 @@ const Features = () => (
      <FeatureCard
        title="Price Trends"
        description="Track market price changes"
-       image="../src/assets/card-img.png"
+       image="/assets/card-img.png"
        cta="View Trends"
      />
      <FeatureCard
        title="Category Comparisons"
        description="Compare different market segments"
-       image="../src/assets/card-img.png"
+       image="/assets/card-img.png"
        cta="Compare Now"
      />
      <FeatureCard
        title="Stock Distribution"
        description="Visualize stock allocation"
-       image="../src/assets/card-img.png"
+       image="/assets/card-img.png"
        cta="View Distribution"
      />
    </div>
