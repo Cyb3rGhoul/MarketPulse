@@ -3,7 +3,7 @@ import React from 'react';
 const RealTimeInsights = () => (
  <section className="real-time-insights">
    <div className="insights-image">
-     <img src="../src/assets/media.png" alt="Real-time data" />
+     <img src="../assets/media.png" alt="Real-time data" />
    </div>
    <div className="insights-content">
      <h2>Get Real-Time Insights</h2>
